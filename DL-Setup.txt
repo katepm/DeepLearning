@@ -1,0 +1,30 @@
+
+- Install anaconda (python 3.7)
+https://www.anaconda.com/distribution/#download-section
+
+- if already have anaconda, update with command (anaconda prompt):
+conda update --all
+
+- Create folder C:\DeepLearning
+
+- create environment:
+conda create -n TF1 
+
+- activate environment:
+conda activate TF1
+
+
+- install packages (after env TF1 is active):
+
+conda install tensorflow
+conda install keras nb_conda matplotlib ipykernel
+
+-register env with jupyter kernel
+ipython kernel install --user --name=DLEnv1 
+
+- start jupyter notebook (from location C:\DeepLearning)
+jupyter notebook
+
+
+
+
