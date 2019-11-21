@@ -1,0 +1,27 @@
+
+Note: all courses listed below are free. They do have paid versions, however free version is available (let me know if you have difficulty signing up)
+
+Topic: Linear and Logistic Regression
+Videos:
+https://www.youtube.com/watch?v=kHwlB_j7Hkc
+
+
+https://www.youtube.com/watch?v=yuH4iRcggMw
+
+
+https://www.youtube.com/watch?v=yR2ipCoFvNo
+Jupyter Notebook: andrew-ng-machine-learning-with-python-1.ipynb
+
+Topic: Neural Networks
+Quick intro: Lesson 3 from https://classroom.udacity.com/courses/ud187
+Detailed Concepts: https://www.coursera.org/learn/neural-networks-deep-learning/
+Jupyter Notebook: Classifying_Images_of_Clothing.ipynb
+Jupyter Notebook: Celsius_to_Fahrenheit.ipynb
+
+Topic: CNN
+Quick intro: Lesson 4 from https://classroom.udacity.com/courses/ud187
+Detailed Concepts: https://www.coursera.org/learn/convolutional-neural-networks
+Jupyter Notebook: Image_Classification_with_CNNs.ipynb
+
+
+
