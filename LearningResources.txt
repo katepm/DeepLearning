@@ -4,11 +4,7 @@ Note: all courses listed below are free. They do have paid versions, however fre
 Topic: Linear and Logistic Regression
 Videos:
 https://www.youtube.com/watch?v=kHwlB_j7Hkc
-
-
 https://www.youtube.com/watch?v=yuH4iRcggMw
-
-
 https://www.youtube.com/watch?v=yR2ipCoFvNo
 Jupyter Notebook: andrew-ng-machine-learning-with-python-1.ipynb
 
