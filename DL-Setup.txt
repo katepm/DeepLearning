@@ -1,3 +1,7 @@
+PIL error (shut down jupyter, instal in conda env):
+pip install --upgrade tensorflow keras numpy pandas sklearn pillow
+
+====
 
 - Install anaconda (python 3.7)
 https://www.anaconda.com/distribution/#download-section
