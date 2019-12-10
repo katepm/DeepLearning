@@ -19,5 +19,8 @@ Quick intro: Lesson 4 from https://classroom.udacity.com/courses/ud187
 Detailed Concepts: https://www.coursera.org/learn/convolutional-neural-networks
 Jupyter Notebook: Image_Classification_with_CNNs.ipynb
 
-
-
+Topic: Advanced CNN
+Quick intro: Lesson 5 (Going further with CNN) from https://classroom.udacity.com/courses/ud187
+Detailed Concepts: https://www.coursera.org/learn/convolutional-neural-networks
+Jupyter Notebook: Cats_vs_Dogs_Without_Data_Augmentation.ipynb
+Jupyter Notebook: Cats_vs_Dogs_with_Data_Augmentation.ipynb
