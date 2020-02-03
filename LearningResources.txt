@@ -24,3 +24,7 @@ Quick intro: Lesson 5 (Going further with CNN) from https://classroom.udacity.co
 Detailed Concepts: https://www.coursera.org/learn/convolutional-neural-networks
 Jupyter Notebook: Cats_vs_Dogs_Without_Data_Augmentation.ipynb
 Jupyter Notebook: Cats_vs_Dogs_with_Data_Augmentation.ipynb
+
+Topic: Transfer Learning
+Quick intro: Lesson 6 from https://classroom.udacity.com/courses/ud187
+Jupyter Notebook:
