@@ -27,4 +27,4 @@ Jupyter Notebook: Cats_vs_Dogs_with_Data_Augmentation.ipynb
 
 Topic: Transfer Learning
 Quick intro: Lesson 6 from https://classroom.udacity.com/courses/ud187
-Jupyter Notebook:
+Jupyter Notebook: Transfer_Learning_with_TensorFlow_Hub.ipynb
